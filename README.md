@@ -2,6 +2,8 @@
 
 A highly functional, premium task management application. Perform full task creation, categorization, and tracking entirely using modern JavaScript and local storage caching.
 
+`Documentation Update (2026): Added live deployment link -` https://udaybodana-dev.github.io/todo-list/
+
 ---
 
 ## ✨ Features
